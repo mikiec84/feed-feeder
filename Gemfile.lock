@@ -104,7 +104,7 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
-    json (2.2.0)
+    json (2.3.1)
     lateral_recommender (0.0.7)
       httparty
       json
